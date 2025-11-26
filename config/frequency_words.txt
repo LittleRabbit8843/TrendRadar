@@ -6,6 +6,8 @@ openai
 sora
 gemini
 DeepSeek
+minimax
+grok
 豆包
 通义
 智谱
@@ -34,25 +36,30 @@ CPU
 贿
 双开
 
+学术
 大学
 学院
 论文
 院士
+研究生
 博士
-读研
+考研
 清华
 北大
 考试
 
 就业
+offer
+实习
 大厂
 外企
 公务员
 体制
 
 经济
+GDP
+CPI
 失业
-结婚
 离婚
 人口
 出生
@@ -76,6 +83,16 @@ CPU
 烟草
 稀土
 
+互联网
+字节
+抖音
+哔哩哔哩
+小红书
+微软
+Microsoft
+谷歌
+google
+
 局势
 国产
 中国
@@ -87,10 +104,10 @@ CPU
 韩国
 新加坡
 
+汽车
 智驾
 比亚迪
 鸿蒙智行
-小米汽车
 小鹏
 特斯拉
 
@@ -107,20 +124,11 @@ DJI
 oppo
 vivo
 一加
+安卓
 鸿蒙
 iphone
 ipad
-mac
 ios
-
-互联网
-字节
-抖音
-哔哩哔哩
-微软
-Microsoft
-谷歌
-google
 
 电商
 拼多多
